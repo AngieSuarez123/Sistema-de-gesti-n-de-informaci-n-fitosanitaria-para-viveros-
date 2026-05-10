@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-de-informaci-n-fitosanitaria-para-viveros-
+# Sistema-de-gestion-de-informacion-fitosanitaria-para-viveros-
